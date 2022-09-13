@@ -1,0 +1,16 @@
+1. What are the differences between html4 and html5? 
+2. What are semantic tags in HTML? Give me some examples.
+<article>, <header>, <footer>, <section>,<main>
+3. What is the purpose of Article, div, section, nav, aside?
+4. Why will you use Meta tag?
+5. What is the difference between inline, inline-block, and block?
+6. Difference between strong, b, bold, em, I?
+7. What are the properties and attributes in HTML?
+8. What is a Viewport?
+9 What is HTML?
+**10. What is a Tag in HTML?
+11. What is the key difference between HTML Elements and Tags?
+12. What is an Anchor tag in HTML?
+13.  What are Forms in HTML?
+14. What is the Use of Comments in HTML?
+15. What is the difference between DIV and SPAN in HTML?
